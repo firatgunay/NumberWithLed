@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680102054 source:c:\users\casper\onedrive\masaüstü\code blocks\numberwithled\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
